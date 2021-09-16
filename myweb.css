@@ -1,6 +1,24 @@
-.jumbotron {
-    background-image: url("../travel.jpg");
+#background-pic {
+    /*background-image: url("travel.jpg");*/
+    background-color: blueviolet;
     background-size: cover;
     height:100%;
     text-align: center;
+    width: 75%;
+
   }
+
+
+
+#logo {
+    margin-left: 200px;
+    margin-right: 500px;
+}
+
+.row{
+    margin-left: 200px;
+}
+
+#footer {
+
+}
