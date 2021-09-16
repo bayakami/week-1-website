@@ -1,4 +1,6 @@
-/*.jumbotron {
-    background-image: url("../img/jumbotron_bg.jpg");
+.jumbotron {
+    background-image: url("../travel.jpg");
     background-size: cover;
-  }*/
+    height:100%;
+    text-align: center;
+  }
